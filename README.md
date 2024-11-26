@@ -48,7 +48,7 @@ Desarrollé un modelo de Machine Learning para predecir la demanda de productos,
 #### [**Sistema de Recomendación de Películas**](https://github.com/matiasoviedo28/P_I_1_HENRY)
 Diseñé un sistema de recomendación utilizando técnicas de filtrado basado en contenido y colaborativo. Implementé una API interactiva con FastAPI para ofrecer recomendaciones personalizadas a los usuarios.
 
-#### **Conectividad a Internet en Argentina**](https://github.com/matiasoviedo28/P_I_2_HENRY)
+#### [**Conectividad a Internet en Argentina**](https://github.com/matiasoviedo28/P_I_2_HENRY)
 Llevé a cabo un análisis exhaustivo de los datos de conectividad en Argentina, destacando brechas y tendencias en el acceso a Internet. Generé visualizaciones dinámicas con Power BI para comunicar los hallazgos de manera efectiva.
 
 ---
@@ -66,6 +66,6 @@ En mi tiempo libre, disfruto de la robótica, explorando y construyendo proyecto
 ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white): matiasalbertooviedogonzalez@gmail.com  
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white): [Conéctate conmigo](https://www.linkedin.com/in/matias-alberto-oviedo-gonzalez/)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white): [Mira mis repositorios](https://github.com/matiasoviedo28)  
-![Ubicación](https://img.shields.io/badge/-Ubicación-1E90FF?style=flat&logo=google-maps&logoColor=white): 🇦🇷 Merlo, San Luis, Argentina
+![🇦🇷](https://img.shields.io/badge/-Ubicación-1E90FF?style=flat&logo=google-maps&logoColor=white): Merlo, San Luis, Argentina
 
 
