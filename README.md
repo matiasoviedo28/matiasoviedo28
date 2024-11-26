@@ -51,7 +51,9 @@ En mi tiempo libre, disfruto de la robótica, explorando y construyendo proyecto
 ---
 
 ### 📫 &nbsp;¡Contáctame!
-![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white): [Contáctame](https://wa.me/5492665039370?text=¡Hola%20Matías!%20Estoy%20interesado%20en%20contactarte)
+
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white): [Contáctame](https://wa.me/5492665039370?text=¡Hola%20Matías!%20Estoy%20interesado%20en%20contactarte)  
 ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white): matiasalbertooviedogonzalez@gmail.com  
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white): [Conéctate conmigo](https://www.linkedin.com/in/matias-alberto-oviedo-gonzalez/)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white): [Mira mis repositorios](https://github.com/matiasoviedo28)
+
