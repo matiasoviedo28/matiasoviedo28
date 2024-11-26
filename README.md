@@ -37,12 +37,22 @@ Data Engineer
 - Trabajé en equipo bajo metodología SCRUM para construir un producto mínimo viable, aplicando análisis de datos y tecnologías de desarrollo.  
 - Experiencia enriquecedora en colaboración y resolución de problemas.
 
-#### [Sistema de Alertas - Cooperativa Telefónica](https://github.com/matiasoviedo28/sistema-alertas)
+#### [**Sistema de Alertas**](https://github.com/matiasoviedo28/sistema-alertas)
 **Optimización de tiempos de respuesta en redes.**  
 - Diseñé un sistema de alertas en tiempo real para nodos y centrales caídas, reduciendo significativamente los tiempos de reparación.  
 - Utilicé herramientas como Python, SQL y servidores dedicados.
 
+#### [**Análisis de Demanda - Nordsee**](https://github.com/matiasoviedo28/Proyecto_Final_Yelp) 
+Desarrollé un modelo de Machine Learning para predecir la demanda de productos, apoyando la estrategia de expansión de una cadena de comida rápida en Estados Unidos. Además, implementé un dashboard interactivo para visualizar insights clave.
+
+#### [**Sistema de Recomendación de Películas**](https://github.com/matiasoviedo28/P_I_1_HENRY)
+Diseñé un sistema de recomendación utilizando técnicas de filtrado basado en contenido y colaborativo. Implementé una API interactiva con FastAPI para ofrecer recomendaciones personalizadas a los usuarios.
+
+#### **Conectividad a Internet en Argentina**](https://github.com/matiasoviedo28/P_I_2_HENRY)
+Llevé a cabo un análisis exhaustivo de los datos de conectividad en Argentina, destacando brechas y tendencias en el acceso a Internet. Generé visualizaciones dinámicas con Power BI para comunicar los hallazgos de manera efectiva.
+
 ---
+
 ### **Sobre mí**
 Soy un apasionado por la tecnología y la eficiencia, siempre buscando soluciones innovadoras que optimicen procesos y generen impacto. Mi experiencia como bombero voluntario durante más de 6 años me ha enseñado a trabajar **bajo presión**, mantener la resiliencia en situaciones desafiantes y liderar equipos en entornos críticos.
 
@@ -55,5 +65,7 @@ En mi tiempo libre, disfruto de la robótica, explorando y construyendo proyecto
 ![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white): [Contáctame](https://wa.me/5492665039370?text=¡Hola%20Matías!%20Estoy%20interesado%20en%20contactarte)  
 ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white): matiasalbertooviedogonzalez@gmail.com  
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white): [Conéctate conmigo](https://www.linkedin.com/in/matias-alberto-oviedo-gonzalez/)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white): [Mira mis repositorios](https://github.com/matiasoviedo28)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white): [Mira mis repositorios](https://github.com/matiasoviedo28)  
+![Ubicación](https://img.shields.io/badge/-Ubicación-1E90FF?style=flat&logo=google-maps&logoColor=white): 🇦🇷 Merlo, San Luis, Argentina
+
 
