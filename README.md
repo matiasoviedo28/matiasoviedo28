@@ -36,7 +36,7 @@ Python Developer
 
 #### [bvm.com.ar](https://bvm.org.ar)
 
-** Sistema academico virtual **
+**Sistema academico virtual**
 * Pagina web donde apliqué mi experiencia con servidores dedicados, registro de dominio en nic.ar, servidor dns
 
 ** Características **
