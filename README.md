@@ -67,15 +67,19 @@ Desarrollé un modelo de Machine Learning para predecir la demanda de productos,
 
 ### **Sobre mí**
 
-Soy un apasionado por la tecnología, siempre buscando soluciones que optimicen procesos y generen impacto.
-
-En mi tiempo libre, disfruto de la robótica, explorando y construyendo proyectos que combinan tecnología y creatividad. También soy **radioaficionado**, con un interés especial en las telecomunicaciones satelitales y los sistemas de comunicación. Me motivan los desafíos y la oportunidad de aprender algo nuevo cada día.
+En mi tiempo libre, disfruto de:
+* Robótica, utilizando Arduino
+* Telecomunicaciones, soy radioaficionado con licencia LU1QBE
+* Admin de servidores dedicados, como webmail de roundcube, server de juegos como minecraft
 
 ---
 
 ### 📫  ¡Contáctame!
 
 ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat\&logo=gmail\&logoColor=white): [matiasalbertooviedogonzalez@gmail.com](mailto:matiasalbertooviedogonzalez@gmail.com)
+
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white): [Conéctate conmigo](https://www.linkedin.com/in/matias-alberto-oviedo-gonzalez/)
+
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat\&logo=github\&logoColor=white): [Mira mis repositorios](https://github.com/matiasoviedo28)
+
 ![🇦🇷](https://img.shields.io/badge/-Ubicación-1E90FF?style=flat\&logo=google-maps\&logoColor=white): Merlo, San Luis, Argentina
