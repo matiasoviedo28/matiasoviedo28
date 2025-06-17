@@ -34,7 +34,7 @@ Python Developer
 
 ### 🚀  Proyectos Destacados
 
-#### [bvm.com.ar](https://bvm.org.ar)
+#### [bvm.com.ar](https://github.com/matiasoviedo28/BVM)
 
 **Sistema academico virtual**
 * Pagina web donde apliqué mi experiencia con servidores dedicados, registro de dominio en nic.ar, servidor dns
