@@ -6,8 +6,8 @@ MATÍAS OVIEDO
 Python Developer
 </h2>
 
-* Backend Developer especializado en optimización de procesos, infraestructura de datos y automatización.
-* Experiencia en el desarrollo de proyectos como de APIs y soluciones para infraestructura de redes.
+* Backend Developer especializado en FastAPI, PostgreSQL e Infraestructura Linux.
+* Experiencia en el desarrollo de proyectos como de APIs FinTech y soluciones para infraestructura de redes.
 * Experiencia en desarrollo de proyectos.
 
 ---
@@ -83,3 +83,4 @@ En mi tiempo libre, disfruto de:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat\&logo=github\&logoColor=white): [Mira mis repositorios](https://github.com/matiasoviedo28)
 
 ![🇦🇷](https://img.shields.io/badge/-Ubicación-1E90FF?style=flat\&logo=google-maps\&logoColor=white): Merlo, San Luis, Argentina
+
