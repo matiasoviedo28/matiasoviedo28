@@ -34,16 +34,17 @@ Python Developer
 
 ### 🚀  Proyectos Destacados
 
-#### [bvm.com.ar](https://github.com/matiasoviedo28/BVM)
+#### [bomberos.ar](https://bomberos.ar)
+### Fundador
 
-**Sistema academico virtual**
-* Pagina web donde apliqué mi experiencia con servidores dedicados, registro de dominio en nic.ar, servidor dns
+**Sistema de centralización de datos**
+* Pagina web orientada a cuarteles de bomberos voluntarios.
 
 ** Características **
-* Aula virtual
+* Control horario con carga automática al registro unico nacional (RUBA)
 * Multiples perfiles con login, para el manejo de datos personales
-* Publicación de certificados, notas, datos
-* Formularios integrados para solicitud de licencias, vacaciones, objetos, etc.
+* Legajos Virtuales
+* Multiples asociaciones a nivel base de datos para disponibilizar toda la información posible de un bombero.
 
 #### [fwi.com.ar](https://github.com/matiasoviedo28/fwi)
 
@@ -83,4 +84,5 @@ En mi tiempo libre, disfruto de:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat\&logo=github\&logoColor=white): [Mira mis repositorios](https://github.com/matiasoviedo28)
 
 ![🇦🇷](https://img.shields.io/badge/-Ubicación-1E90FF?style=flat\&logo=google-maps\&logoColor=white): Merlo, San Luis, Argentina
+
 
