@@ -45,11 +45,12 @@ Plataforma para modernizar la gestión de cuarteles de bomberos voluntarios. Nac
 
 #### 🔥 [fwi](https://github.com/matiasoviedo28/FWI) — Prevención de incendios forestales
 
-Herramienta de monitoreo meteorológico y análisis predictivo para anticipar riesgo de incendios en tiempo real.
+Sistema que calcula el **Fire Weather Index** sobre todo el territorio argentino a partir de los pronósticos del SMN, para monitorear el riesgo de incendio actual y pronosticado hasta **+72 h**.
 
-- Procesamiento de archivos **NetCDF** y cálculo de índices de peligrosidad
-- Pipeline en Python con base de datos SQL
-- Desplegado en servidor dedicado con Ubuntu Server
+- Procesa archivos **NetCDF** del modelo WRF del SMN sobre la grilla nativa de **4 km** (~167k puntos sobre Argentina)
+- Índices de peligrosidad (FWI canadiense / CFFDRS) calculados con **xclim**, validados contra el estándar científico y corregidos para el **Hemisferio Sur**
+- Extracción geoespacial **vectorizada (KDTree)** — de minutos a ~1 s por día
+- **API FastAPI + PostgreSQL** y mapa web interactivo (isobandas vectoriales sobre Leaflet), todo **dockerizado**
 
 📄 *Documentación y arquitectura:* [github.com/matiasoviedo28/FWI](https://github.com/matiasoviedo28/FWI)
 
