@@ -41,7 +41,7 @@ Plataforma para modernizar la gestión de cuarteles de bomberos voluntarios. Nac
 - Arquitectura multi-asociación a nivel de base de datos
 - Stack: Python · PostgreSQL · Linux · servidor dedicado
 
-📄 *Documentación y arquitectura:* [github.com/matiasoviedo28/bomberos.ar](https://github.com/matiasoviedo28/bomberos.ar)
+📄 *Documentación y arquitectura:* [REPOSITORIO](https://github.com/matiasoviedo28/bomberos.ar)
 
 #### 🔥 [fwi](https://github.com/matiasoviedo28/FWI) — Prevención de incendios forestales
 
@@ -52,15 +52,18 @@ Sistema que calcula el **Fire Weather Index** sobre todo el territorio argentino
 - Extracción geoespacial **vectorizada (KDTree)** — de minutos a ~1 s por día
 - **API FastAPI + PostgreSQL** y mapa web interactivo (isobandas vectoriales sobre Leaflet), todo **dockerizado**
 
-📄 *Documentación y arquitectura:* [github.com/matiasoviedo28/FWI](https://github.com/matiasoviedo28/FWI)
+📄 *Documentación y arquitectura:* [REPOSITORIO](https://github.com/matiasoviedo28/FWI)
 
-#### 📡 Sistema de alertas para redes ISP
+#### 📡 [RadioLocal-VHF-HF](https://github.com/matiasoviedo28/RadioLocal-VHF-HF) — Planificación de cobertura de radio frecuencia
 
-Sistema de alertas en tiempo real para nodos y centrales caídas, pensado para reducir los tiempos de reparación.
+Herramienta **local** para planificar la cobertura de radio **VHF** en operativos, calculada sobre relieve real y corriendo 100% en tu propia máquina, sin depender de servicios web de terceros al momento de calcular.
 
-- Detección y notificación inmediata de caídas
-- Enfocado en bajar el MTTR del equipo de soporte
-- Python · SQL · servidores dedicados
+- Cálculo de propagación con **Signal-Server** (modelo **Longley-Rice / ITM**) sobre relieve real, ejecutado íntegramente en el backend local
+- Relieve **(DEM) Copernicus GLO-30** descargado on-demand desde el **bucket público en AWS** (sin API key) y **cacheado por tiles** como COG para trabajar offline
+- **Descarga masiva por región** (CLI reanudable) para llevar una provincia o el país entero a operativos sin conectividad
+- **Mapa interactivo** con **MapLibre GL JS** + *hillshade* y exportación a **Google Earth (KMZ)**; backend **FastAPI** y frontend, todo **dockerizado**
+
+📄 *Documentación y arquitectura:* [REPOSITORIO](https://github.com/matiasoviedo28/RadioLocal-VHF-HF)
 
 ---
 
