@@ -65,6 +65,17 @@ Herramienta **local** para planificar la cobertura de radio **VHF** en operativo
 
 📄 *Documentación y arquitectura:* [REPOSITORIO](https://github.com/matiasoviedo28/RadioLocal-VHF-HF)
 
+#### 🚒 [tracking-GPS-VHF](https://github.com/matiasoviedo28/tracking-GPS-VHF) — Monitoreo en tiempo real de flota DMR
+
+Sistema que **capta por RF** la señal DMR de la repetidora del Cuartel de Bomberos Voluntarios de Merlo con un SDR y la decodifica de forma **independiente**, sin depender de licencias comerciales ni del software de despacho original.
+
+- **Decodificación DMR propia** (captura SDR + `dsd-fme`/`mbelib` compilados desde código) para presencia, voz y eventos, sin licencias de terceros
+- **Bitácora de audio** reproducible de cada transmisión, con reproducción exclusiva y modo "escuchar en vivo"
+- Autodiagnóstico de **estado del SDR en tiempo real** (conectado, mala antena, sin datos, ok) con histéresis para evitar falsos positivos
+- **Backend FastAPI + WebSocket**, frontend con mapa interactivo (Leaflet), **PostgreSQL** y **4 servicios 100% dockerizados**, sin pasos manuales
+
+📄 *Documentación y arquitectura:* [REPOSITORIO](https://github.com/matiasoviedo28/tracking-GPS-VHF)
+
 ---
 
 ### 🧠 De dónde vengo
